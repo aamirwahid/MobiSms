@@ -5,7 +5,6 @@ This extension allow your customers to send SMS from your Magento store using Mo
 - Registration using Mobile Number
 
 ## Installation
-```
 
 ### Using GIT clone
 
