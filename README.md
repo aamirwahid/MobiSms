@@ -1,2 +1,2 @@
 # MobiSMS
-SMS Sending module for magento 2
+Mobishastra SMS Sending module for magento 2
