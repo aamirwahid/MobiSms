@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+{{License}}
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="MobiSms_Notify::mobisms" title="MobiSMS" module="MobiSms_Notify" sortOrder="11" resource="MobiSms_Notify::mobisms"/>
+        <add id="MobiSms_Notify::mobisms_head" title="Settings" module="MobiSms_Notify" sortOrder="40"
+             parent="MobiSms_Notify::mobisms" resource="MobiSms_Notify::mobisms"/>
+        <add id="MobiSms_Notify::config" title="Configuration" module="MobiSms_Notify" sortOrder="50"
+             action="adminhtml/system_config/edit/section/mobisms_notify_configuration"
+             resource="MobiSms_Notify::notify" parent="MobiSms_Notify::mobisms_head" />
+    </menu>
+</config>
