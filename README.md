@@ -31,7 +31,7 @@ php bin/magento cache:clean
 ## Configuration
 
 1. Go to **MobiSMS** > **Configuration** > **Mobishastra SMS** > **Basic Configuration** > **Enter Your API Credentials**.
-2. Go to  **Order Notiications** > **Select Module and change tp Yes to Enable Customer Notiications**.
+2. Go to  **Order Notiications** > **Select Module and change to Yes to Enable Customer Notiications**.
 3. Enter your **Sender ID** and **Message** and then Click on **Save**.
 4. Do same for **Admin Notifications**. 
 5. You can use following variables in message **{order_id} {firstname} {middlename} {lastname} {dob} {email} {price} {gender}**
