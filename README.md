@@ -34,7 +34,7 @@ php bin/magento cache:clean
 2.Go to  **Order Notiications** > **Select Module and change tp Yes to Enable Customer Notiications**.
 3. Enter your **Sender ID** and **Message** and then Click on **Save**.
 4. Do same for **Admin Notifications**. 
-5. You can use following variables in message **{order_id} {firstname} {middlename} {lastname} {dob} {email} {price} {gender} {createdate}**
+5. You can use following variables in message **{order_id} {firstname} {middlename} {lastname} {dob} {email} {price} {gender}**
             
 ## Uninstall
 
