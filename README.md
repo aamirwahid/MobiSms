@@ -30,10 +30,10 @@ php bin/magento cache:clean
 
 ## Configuration
 
-1. Go to **STORES** > **Configuration** > **MAGESTAT** > **Sign in With Phone Number**.
-2. Select **Enabled** option to enable the module.
-3. Under **Settings** tab, change the **Sign in Mode** to fit to your login process.
-
+1. Go to **MobiSMS** > **Configuration** > **Mobishastra SMS ** > **Basic Configuration ** > **Enter Your API Credentials**.
+2.Go to  **Order Notiications** > **Select Module and change tp Yes to Enable Customer Notiications**.
+3. Enter your **Sender ID** and **Message** and then Click on **Save**.
+4. Do same or **Admin Notifications**. 
 ## Uninstall
 
 ```sh
