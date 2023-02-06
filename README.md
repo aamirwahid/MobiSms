@@ -33,7 +33,7 @@ php bin/magento cache:clean
 1. Go to **MobiSMS** > **Configuration** > **Mobishastra SMS ** > **Basic Configuration ** > **Enter Your API Credentials**.
 2.Go to  **Order Notiications** > **Select Module and change tp Yes to Enable Customer Notiications**.
 3. Enter your **Sender ID** and **Message** and then Click on **Save**.
-4. Do same or **Admin Notifications**. 
+4. Do same for **Admin Notifications**. 
 ## Uninstall
 
 ```sh
