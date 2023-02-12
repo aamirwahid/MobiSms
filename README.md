@@ -41,6 +41,11 @@ php bin/magento cache:clean
 ```sh
 php bin/magento module:uninstall -r MobiSms
 ```
+## Please Note:
+
+For Registration SMS to customer install the below plugin:
+
+https://github.com/williankeller/magento2-sign-in-with-phone-number
 
 ## Contribution
 
