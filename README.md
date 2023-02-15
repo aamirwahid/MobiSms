@@ -49,7 +49,7 @@ https://github.com/williankeller/magento2-sign-in-with-phone-number
 ```
 2) If you are manually installing the extension by downloading from github please make sure the directory structure should be like below:
 ```sh
-YourMagentoRootDirectory/app/code/Mobisms/Notify/..
+YourMagentoRootDirectory/app/code/MobiSms/Notify/..
 ```
 ## Contribution
 
