@@ -43,10 +43,14 @@ php bin/magento module:uninstall -r MobiSms
 ```
 ## Please Note:
 
-For Registration SMS to customer install the below plugin:
+1) For Registration SMS to customer install the below plugin:
 
 https://github.com/williankeller/magento2-sign-in-with-phone-number
 
+2) If you are manually installing the extension by downloading from github please make sure the directory structure should be like below:
+```sh
+YourMagentoRootDirectory/app/code/Mobisms/Notify/..
+```
 ## Contribution
 
 Want to contribute to this extension? The quickest way is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
